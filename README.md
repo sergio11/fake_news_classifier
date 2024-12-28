@@ -1,6 +1,5 @@
-# 🎨 Fighting Misinformation: Source-Based Fake News Classification 🕵️‍♂️
+# 📰 Fighting Misinformation: Source-Based Fake News Classification 🕵️‍♂️
 
-## 🔧 Project Overview
 Fake news spreads like wildfire in today’s fast-paced digital world. This project focuses on **classifying news by type and label** using a source-based approach. By leveraging structured data and machine learning, we aim to combat misinformation and bring transparency to online news.
 
 ## 📊 About the Dataset
