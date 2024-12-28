@@ -86,12 +86,59 @@ In this project, two machine learning approaches are evaluated for classifying f
 ### Conclusion
 The results of this comparison highlight the advantages of using **Embeddings + CNN** for more complex text classification tasks, especially in dealing with large, high-dimensional datasets. However, **RandomForestClassifier using TF-IDF** remains a useful and simpler tool for tasks where computational resources or training data are limited. This project shows that using a source-based approach combined with machine learning techniques can effectively aid in the detection of fake news.
 
-## 🙏 Acknowledgements
+✨ Let’s Fight Fake News Together! 🕵️‍♂️
+
+## **🙏 Acknowledgments**
+
 - Dataset: **Getting Real about Fake News**
   - Selected for its detailed inclusion of source information, crucial for verifying authenticity.
 - Special thanks to the creators and contributors of this dataset for enabling research in combating misinformation.
+  
+A huge **thank you** to **ruchi798** for providing the dataset that made this project possible! 🌟 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/ruchi798/source-based-news-classification/data). Your contribution is greatly appreciated! 🙌
 
-✨ Let’s Fight Fake News Together! 🕵️‍♂️
+🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
 
+## Visitors Count
 
-https://www.kaggle.com/datasets/ruchi798/source-based-news-classification/data
+<img width="auto" src="https://profile-counter.glitch.me/fake_news_classifier/count.svg" />
+
+## Please Share & Star the repository to keep me motivated.
+<a href = "https://github.com/sergio11/fake_news_classifier/stargazers">
+   <img src = "https://img.shields.io/github/stars/sergio11/fake_news_classifier" />
+</a>
+
+## License ⚖️
+
+This project is licensed under the MIT License, an open-source software license that allows developers to freely use, copy, modify, and distribute the software. 🛠️ This includes use in both personal and commercial projects, with the only requirement being that the original copyright notice is retained. 📄
+
+Please note the following limitations:
+
+- The software is provided "as is", without any warranties, express or implied. 🚫🛡️
+- If you distribute the software, whether in original or modified form, you must include the original copyright notice and license. 📑
+- The license allows for commercial use, but you cannot claim ownership over the software itself. 🏷️
+
+The goal of this license is to maximize freedom for developers while maintaining recognition for the original creators.
+
+```
+MIT License
+
+Copyright (c) 2024 Dream software - Sergio Sánchez 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+``
