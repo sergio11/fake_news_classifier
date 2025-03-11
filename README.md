@@ -8,6 +8,13 @@ Our goal is to provide a reliable method for distinguishing between **real and f
 
 Through this project, we hope to raise awareness of the importance of verifying sources ✅ and foster the development of applications that can assist in **combating fake news**, ultimately paving the way for more informed, educated, and responsible news consumption in the digital age 📚.
 
+## ⚠️ Disclaimer  
+**This project was developed for educational and research purposes only.** It is an academic exploration of **machine learning techniques for source-based fake news classification**.  
+
+The models and techniques presented in this repository **are not intended for real-world misinformation detection or journalistic verification**. They serve as a proof of concept and have not been extensively tested for accuracy, bias, or robustness in diverse media environments.  
+
+While this project leverages publicly available datasets and references existing research, **users should not rely on its outputs for making factual or editorial decisions**. Always verify news from multiple trusted sources.  
+
 <p align="center">
    <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -127,6 +134,13 @@ In this project, two machine learning approaches are evaluated for classifying f
 
 ### Conclusion
 The results of this comparison highlight the advantages of using **Embeddings + CNN** for more complex text classification tasks, especially in dealing with large, high-dimensional datasets. However, **RandomForestClassifier using TF-IDF** remains a useful and simpler tool for tasks where computational resources or training data are limited. This project shows that using a source-based approach combined with machine learning techniques can effectively aid in the detection of fake news.
+
+## ⚠️ Disclaimer  
+**This project was developed for educational and research purposes only.** It is an academic exploration of **machine learning techniques for source-based fake news classification**.  
+
+The models and techniques presented in this repository **are not intended for real-world misinformation detection or journalistic verification**. They serve as a proof of concept and have not been extensively tested for accuracy, bias, or robustness in diverse media environments.  
+
+While this project leverages publicly available datasets and references existing research, **users should not rely on its outputs for making factual or editorial decisions**. Always verify news from multiple trusted sources.  
 
 ✨ Let’s Fight Fake News Together! 🕵️‍♂️
 
