@@ -1,12 +1,20 @@
-# 📰 Fighting Misinformation: Source-Based Fake News Classification 🕵️‍♂️
+# 📰 Fighting Misinformation — A Personal Learning Project on Fake News Classification
 
-Fake news spreads like wildfire in today’s fast-paced digital world 🌐, often distorting public perception and influencing opinions. As social media and online platforms become the primary sources of information for millions of people, the spread of misinformation has become a pressing concern ⚠️. Fake news can have serious consequences, from influencing elections 🗳️ to causing panic during crises.
+This project was developed as part of my hands-on journey through a **Deep Learning course**, where I focused on understanding how AI can be applied to real-world challenges—particularly the spread of **fake news** across digital platforms.
 
-This project focuses on **classifying news by type and label** using a **source-based approach** 🧑‍💻, which involves analyzing key source information such as the author ✍️, publication date 📅, and the reputation of the source itself 🏅. By leveraging **structured data** and **machine learning** techniques 🤖, we aim to create an automated system that can efficiently identify and classify news articles based on their authenticity ✅.
+In today's fast-paced digital world 🌐, misinformation spreads rapidly, often distorting public perception and influencing critical decisions. From shaping elections 🗳️ to triggering widespread panic during crises, the consequences are real and significant.
 
-Our goal is to provide a reliable method for distinguishing between **real and fake news** 🔍, contributing to the fight against misinformation. This system not only helps improve news credibility but also empowers users with the tools needed to critically assess the information they consume, promoting a more transparent and trustworthy online news environment 🌍.
+To explore this issue from a practical and technical perspective, I built a machine learning model that classifies news articles as **real or fake**, using a **source-based approach**. Rather than analyzing article content directly, the model looks at structured metadata—such as:
 
-Through this project, we hope to raise awareness of the importance of verifying sources ✅ and foster the development of applications that can assist in **combating fake news**, ultimately paving the way for more informed, educated, and responsible news consumption in the digital age 📚.
+- The **author** of the article ✍️  
+- The **publication date** 📅  
+- And the **reputation of the source** itself 🏅
+
+By training on this structured data, the goal was to simulate how credibility might be algorithmically assessed based on source characteristics alone. This approach reflects a more **explainable and efficient** path to automated verification systems, while also encouraging deeper awareness of where our information comes from.
+
+> 🤖 Tools & Techniques: I implemented this using **scikit-learn** and **Pandas**, exploring different classifiers (e.g., Logistic Regression, Random Forests), and working through typical steps like preprocessing, feature selection, and evaluation with metrics like accuracy and F1-score.
+
+More than just a technical exercise, this project reinforced my understanding of how machine learning models can assist in **digital literacy**, promoting more **informed and critical media consumption**.
 
 ## ⚠️ Disclaimer  
 **This project was developed for educational and research purposes only.** It is an academic exploration of **machine learning techniques for source-based fake news classification**.  
