@@ -35,6 +35,8 @@ While this project leverages publicly available datasets and references existing
 
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
 
+🔍 This project was inspired by the Kaggle notebook [*EDA and Modelling on News Dataset (99% accuracy)*](https://www.kaggle.com/code/bansalvishesh/eda-and-modelling-on-news-dataset-99-accuracy) by **Vishesh Bansal**, which provided valuable insights into text preprocessing and classification workflows.
+
 ## 🌟 Explore My Other Cutting-Edge AI Projects! 🌟
 
 If you found this project intriguing, I invite you to check out my other AI and machine learning initiatives, where I tackle real-world challenges across various domains:
@@ -161,6 +163,10 @@ While this project leverages publicly available datasets and references existing
 A huge **thank you** to **ruchi798** for providing the dataset that made this project possible! 🌟 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/ruchi798/source-based-news-classification/data). Your contribution is greatly appreciated! 🙌
 
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
+
+Throughout the development of this project, I drew inspiration from several community contributions that tackled fake news classification from different angles. One particularly valuable resource was the Kaggle notebook by **Vishesh Bansal**, titled [*EDA and Modelling on News Dataset (99% accuracy)*](https://www.kaggle.com/code/bansalvishesh/eda-and-modelling-on-news-dataset-99-accuracy).
+
+This notebook provides a thorough exploratory data analysis of news content and experiments with text preprocessing techniques such as **TF-IDF** and **word embeddings** using TensorFlow. I am grateful for the educational value of such community-driven contributions, which not only accelerate individual learning but also foster collaborative research and shared growth within the field.
 
 ## Visitors Count
 
