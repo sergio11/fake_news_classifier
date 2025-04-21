@@ -16,12 +16,9 @@ By training on this structured data, the goal was to simulate how credibility mi
 
 More than just a technical exercise, this project reinforced my understanding of how machine learning models can assist in **digital literacy**, promoting more **informed and critical media consumption**.
 
-## ⚠️ Disclaimer  
-**This project was developed for educational and research purposes only.** It is an academic exploration of **machine learning techniques for source-based fake news classification**.  
+🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
 
-The models and techniques presented in this repository **are not intended for real-world misinformation detection or journalistic verification**. They serve as a proof of concept and have not been extensively tested for accuracy, bias, or robustness in diverse media environments.  
-
-While this project leverages publicly available datasets and references existing research, **users should not rely on its outputs for making factual or editorial decisions**. Always verify news from multiple trusted sources.  
+🔍 This project was inspired by the Kaggle notebook [*EDA and Modelling on News Dataset (99% accuracy)*](https://www.kaggle.com/code/bansalvishesh/eda-and-modelling-on-news-dataset-99-accuracy) by **Vishesh Bansal**, which provided valuable insights into text preprocessing and classification workflows.
 
 <p align="center">
    <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
@@ -33,9 +30,12 @@ While this project leverages publicly available datasets and references existing
    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
+## ⚠️ Disclaimer  
+**This project was developed for educational and research purposes only.** It is an academic exploration of **machine learning techniques for source-based fake news classification**.  
 
-🔍 This project was inspired by the Kaggle notebook [*EDA and Modelling on News Dataset (99% accuracy)*](https://www.kaggle.com/code/bansalvishesh/eda-and-modelling-on-news-dataset-99-accuracy) by **Vishesh Bansal**, which provided valuable insights into text preprocessing and classification workflows.
+The models and techniques presented in this repository **are not intended for real-world misinformation detection or journalistic verification**. They serve as a proof of concept and have not been extensively tested for accuracy, bias, or robustness in diverse media environments.  
+
+While this project leverages publicly available datasets and references existing research, **users should not rely on its outputs for making factual or editorial decisions**. Always verify news from multiple trusted sources.  
 
 ## 🌟 Explore My Other Cutting-Edge AI Projects! 🌟
 
